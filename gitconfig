@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = acanalesgt@gmail.com
+	name = Armando Canales
